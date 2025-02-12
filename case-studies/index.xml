@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Case-Studies on CopyCat AI</title>
+    <link>https://pritzvi.github.io/hugo-mock-landing-page/case-studies/</link>
+    <description>Recent content in Case-Studies on CopyCat AI</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Prithvi Bale (bprithvi)</copyright>
+    <atom:link href="https://pritzvi.github.io/hugo-mock-landing-page/case-studies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customer Success Stories</title>
+      <link>https://pritzvi.github.io/hugo-mock-landing-page/case-studies/success-stories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pritzvi.github.io/hugo-mock-landing-page/case-studies/success-stories/</guid>
+      <description>&lt;h2 id=&#34;global-financial-services-firm&#34;&gt;Global Financial Services Firm&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Challenge:&lt;/strong&gt; Manual data entry across 12 different systems&#xA;&lt;strong&gt;Solution:&lt;/strong&gt; Automated 85% of daily operations workflows&#xA;&lt;strong&gt;Result:&lt;/strong&gt; Saved 2,000+ hours monthly, reduced errors by 99%&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;CopyCat AI transformed our operations. What used to take hours now happens automatically with perfect accuracy.&amp;rdquo; - Sarah Chen, Operations Director&lt;/p&gt;&#xA;&lt;h2 id=&#34;healthcare-provider-network&#34;&gt;Healthcare Provider Network&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Challenge:&lt;/strong&gt; Complex patient data management procedures&#xA;&lt;strong&gt;Solution:&lt;/strong&gt; Automated cross-system workflow with HIPAA compliance&#xA;&lt;strong&gt;Result:&lt;/strong&gt; Reduced processing time by 75%, eliminated data entry errors&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

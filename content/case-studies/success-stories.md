@@ -1,10 +1,9 @@
 ---
-title: "Success Stories"
+title: "Customer Success Stories"
 description: "See how companies are transforming their operations with CopyCat AI"
 draft: false
 ---
 
-# Customer Success Stories
 
 ## Global Financial Services Firm
 **Challenge:** Manual data entry across 12 different systems

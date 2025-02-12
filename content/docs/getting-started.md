@@ -4,7 +4,6 @@ description: "Learn how to record your first workflow and transform it into an a
 draft: false
 ---
 
-# Getting Started with CopyCat AI
 
 Welcome to CopyCat AI! This guide will help you create your first automated workflow.
 

@@ -1,5 +1,5 @@
 ---
-title: "API Documentation - Coming Soon"
+title: "API Documentation"
 description: "Join the waitlist for CopyCat AI's API access"
 draft: false
 ---

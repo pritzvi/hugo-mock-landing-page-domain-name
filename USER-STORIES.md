@@ -1,4 +1,4 @@
-# User Stories for WorkflowCopy AI
+# User Stories for CopyCat AI
 
 ## Core Recording Features
 1. As a small business user, I want to record my screen while performing a routine task, so I can create a reusable workflow template that I can share with my team.
@@ -44,10 +44,10 @@
 ## Security and Integration
 21. As a security officer, I want to set permissions for who can view, edit, or execute specific workflows, so sensitive processes remain protected.
 
-22. As an IT administrator, I want to integrate WorkflowCopy AI with our SSO solution, so user access is managed centrally.
+22. As an IT administrator, I want to integrate CopyCat AI with our SSO solution, so user access is managed centrally.
 
 23. As a compliance officer, I want to audit workflow execution history, so I can ensure processes are being followed correctly.
 
 24. As a system administrator, I want to set up data retention policies for recordings and logs, so we comply with company policies.
 
-25. As an enterprise architect, I want to integrate WorkflowCopy AI with our existing tools through APIs, so it fits into our technology ecosystem. 
+25. As an enterprise architect, I want to integrate CopyCat AI with our existing tools through APIs, so it fits into our technology ecosystem. 

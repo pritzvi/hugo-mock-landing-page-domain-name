@@ -1,12 +1,12 @@
 ---
-title: "WorkflowCopy AI"
+title: "CopyCat AI"
 description: "Transform your workflows into automated processes with AI-powered recording and execution"
 draft: false
 ---
 
 ## Transform Manual Tasks into Automated Magic
 
-WorkflowCopy AI is your intelligent workflow automation platform that lets you record, document, and automate your routine tasks. Simply record your process once, and let our AI handle it forever.
+CopyCat AI is your intelligent workflow automation platform that lets you record, document, and automate your routine tasks. Simply record your process once, and let our AI handle it forever.
 
 <div class="container py-5">
     <div class="row g-4">
@@ -72,7 +72,7 @@ WorkflowCopy AI is your intelligent workflow automation platform that lets you r
             <div class="card h-100">
                 <div class="card-body">
                     <h5 class="card-title">Success Stories</h5>
-                    <p class="card-text">See how other companies have automated their workflows with WorkflowCopy AI.</p>
+                    <p class="card-text">See how other companies have automated their workflows with CopyCat AI.</p>
                     <a href="#" class="btn btn-outline-primary">Read More</a>
                 </div>
             </div>
@@ -81,7 +81,7 @@ WorkflowCopy AI is your intelligent workflow automation platform that lets you r
             <div class="card h-100">
                 <div class="card-body">
                     <h5 class="card-title">API Documentation</h5>
-                    <p class="card-text">Integrate WorkflowCopy AI with your existing tools and systems.</p>
+                    <p class="card-text">Integrate CopyCat AI with your existing tools and systems.</p>
                     <a href="#" class="btn btn-outline-primary">Read More</a>
                 </div>
             </div>

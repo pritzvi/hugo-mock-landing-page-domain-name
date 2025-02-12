@@ -6,7 +6,7 @@ menu:
     weight: 90
 ---
 
-# Contact WorkflowCopy AI
+# Contact CopyCat AI
 
 Ready to transform your workflows? Get in touch with our team:
 
@@ -20,7 +20,7 @@ Or schedule a demo with one of our automation experts:
 
 ## Office Location
 
-WorkflowCopy AI
+CopyCat AI
 123 Innovation Drive
 San Francisco, CA 94105
 United States

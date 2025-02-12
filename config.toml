@@ -1,7 +1,7 @@
 baseURL = 'http://localhost:1313/'
-title = "WorkflowCopy AI"
-author = "WorkflowCopy Team"
-copyright = "© 2024 WorkflowCopy AI. All rights reserved."
+title = "CopyCat AI"
+author = "CopyCat AI Team"
+copyright = "© 2024 CopyCat AI. All rights reserved."
 
 timeZone = 'America/New_York'
 

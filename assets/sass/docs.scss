@@ -1,0 +1,53 @@
+.content {
+    h2 {
+        color: #2C3E50;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+
+    p {
+        line-height: 1.6;
+        margin-bottom: 1.5rem;
+    }
+
+    ul {
+        margin-bottom: 1.5rem;
+    }
+
+    li {
+        margin-bottom: 0.5rem;
+    }
+
+    code {
+        background: #f8f9fa;
+        padding: 0.2rem 0.4rem;
+        border-radius: 0.25rem;
+    }
+
+    blockquote {
+        border-left: 4px solid #3498DB;
+        padding-left: 1rem;
+        margin-left: 0;
+        color: #6c757d;
+    }
+}
+
+.case-study {
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+
+    &:last-child {
+        border-bottom: none;
+        padding-bottom: 0;
+    }
+
+    .quote {
+        font-style: italic;
+        color: #6c757d;
+        margin: 1.5rem 0;
+        padding: 1rem;
+        background: #f8f9fa;
+        border-radius: 0.5rem;
+    }
+} 

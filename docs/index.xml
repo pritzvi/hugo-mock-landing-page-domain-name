@@ -1,26 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Docs on CopyCat AI</title>
-    <link>https://pritzvi.github.io/hugo-mock-landing-page/docs/</link>
-    <description>Recent content in Docs on CopyCat AI</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Prithvi Bale (bprithvi)</copyright>
-    <atom:link href="https://pritzvi.github.io/hugo-mock-landing-page/docs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>API Documentation</title>
-      <link>https://pritzvi.github.io/hugo-mock-landing-page/docs/api-documentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pritzvi.github.io/hugo-mock-landing-page/docs/api-documentation/</guid>
-      <description>&lt;h1 id=&#34;api-access-coming-soon&#34;&gt;API Access Coming Soon&lt;/h1&gt;&#xA;&lt;p&gt;We&amp;rsquo;re currently developing our API to allow seamless integration of CopyCat AI with your existing tools and systems. Join our waitlist to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Get early access to our API&lt;/li&gt;&#xA;&lt;li&gt;Receive development updates&lt;/li&gt;&#xA;&lt;li&gt;Provide input on features you need&lt;/li&gt;&#xA;&lt;li&gt;Be the first to build integrations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;what-to-expect&#34;&gt;What to Expect&lt;/h2&gt;&#xA;&lt;p&gt;Our API will enable you to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Programmatically create and manage workflows&lt;/li&gt;&#xA;&lt;li&gt;Trigger automated processes&lt;/li&gt;&#xA;&lt;li&gt;Generate and retrieve SOPs&lt;/li&gt;&#xA;&lt;li&gt;Manage team permissions&lt;/li&gt;&#xA;&lt;li&gt;Access analytics and reporting&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;join-the-waitlist&#34;&gt;Join the Waitlist&lt;/h2&gt;&#xA;&lt;p&gt;For updates and early access, check out our &lt;a href=&#34;https://github.com/pritzvi/hugo-mock-landing-page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Getting Started with CopyCat AI</title>
-      <link>https://pritzvi.github.io/hugo-mock-landing-page/docs/getting-started/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pritzvi.github.io/hugo-mock-landing-page/docs/getting-started/</guid>
-      <description>&lt;p&gt;Welcome to CopyCat AI! This guide will help you create your first automated workflow.&lt;/p&gt;&#xA;&lt;h2 id=&#34;quick-start-guide&#34;&gt;Quick Start Guide&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Install the CopyCat AI Extension&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Download from our secure browser extension store&lt;/li&gt;&#xA;&lt;li&gt;Sign in with your CopyCat AI account&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Record Your First Workflow&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Click the &amp;ldquo;Record&amp;rdquo; button in the extension&lt;/li&gt;&#xA;&lt;li&gt;Perform your task naturally while narrating steps&lt;/li&gt;&#xA;&lt;li&gt;Our AI will automatically detect clicks and inputs&lt;/li&gt;&#xA;&lt;li&gt;Add voice annotations for complex decisions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Review and Edit&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on CopyCat AI</title><link>https://pritzvi.github.io/hugo-mock-landing-page-autodeployed/docs/</link><description>Recent content in Docs on CopyCat AI</description><generator>Hugo</generator><language>en</language><copyright>© 2024 CopyCat AI. All rights reserved.</copyright><atom:link href="https://pritzvi.github.io/hugo-mock-landing-page-autodeployed/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>API Documentation</title><link>https://pritzvi.github.io/hugo-mock-landing-page-autodeployed/docs/api-documentation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pritzvi.github.io/hugo-mock-landing-page-autodeployed/docs/api-documentation/</guid><description>&lt;h1 id="api-access-coming-soon">API Access Coming Soon&lt;/h1>
+&lt;p>We&amp;rsquo;re currently developing our API to allow seamless integration of CopyCat AI with your existing tools and systems. Join our waitlist to:&lt;/p>
+&lt;ul>
+&lt;li>Get early access to our API&lt;/li>
+&lt;li>Receive development updates&lt;/li>
+&lt;li>Provide input on features you need&lt;/li>
+&lt;li>Be the first to build integrations&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-to-expect">What to Expect&lt;/h2>
+&lt;p>Our API will enable you to:&lt;/p>
+&lt;ul>
+&lt;li>Programmatically create and manage workflows&lt;/li>
+&lt;li>Trigger automated processes&lt;/li>
+&lt;li>Generate and retrieve SOPs&lt;/li>
+&lt;li>Manage team permissions&lt;/li>
+&lt;li>Access analytics and reporting&lt;/li>
+&lt;/ul>
+&lt;h2 id="join-the-waitlist">Join the Waitlist&lt;/h2>
+&lt;p>For updates and early access, check out our &lt;a href="https://github.com/pritzvi/hugo-mock-landing-page" target="_blank" rel="noopener">GitHub repository&lt;/a>.&lt;/p></description></item><item><title>Getting Started with CopyCat AI</title><link>https://pritzvi.github.io/hugo-mock-landing-page-autodeployed/docs/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pritzvi.github.io/hugo-mock-landing-page-autodeployed/docs/getting-started/</guid><description>&lt;p>Welcome to CopyCat AI! This guide will help you create your first automated workflow.&lt;/p>
+&lt;h2 id="quick-start-guide">Quick Start Guide&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Install the CopyCat AI Extension&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Download from our secure browser extension store&lt;/li>
+&lt;li>Sign in with your CopyCat AI account&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Record Your First Workflow&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Click the &amp;ldquo;Record&amp;rdquo; button in the extension&lt;/li>
+&lt;li>Perform your task naturally while narrating steps&lt;/li>
+&lt;li>Our AI will automatically detect clicks and inputs&lt;/li>
+&lt;li>Add voice annotations for complex decisions&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Review and Edit&lt;/strong>&lt;/p></description></item></channel></rss>

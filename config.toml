@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://pritzvi.github.io/hugo-mock-landing-page-autodeployed/'
 title = "CopyCat AI"
 author = "CopyCat AI Team"
 copyright = "© 2024 CopyCat AI. All rights reserved."

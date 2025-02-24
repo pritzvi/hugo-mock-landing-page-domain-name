@@ -18,6 +18,9 @@ Or schedule a demo with one of our automation experts:
 
 [Schedule Demo](#)
 
+Or open an issue:
+[Open an issue](https://github.com/pritzvi/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
+
 ## Office Location
 
 CopyCat AI

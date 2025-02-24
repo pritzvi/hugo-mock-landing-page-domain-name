@@ -1,2 +1,2 @@
 # hugo-mock-landing-page
-For CIS 3500 HW01
+For CIS 3500 HW02
